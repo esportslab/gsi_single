@@ -1,0 +1,3433 @@
+[
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669463
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 22,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 8,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 3,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "name": "unconnected",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 0,
+        "armor": 0,
+        "helmet": false,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 0
+      },
+      "weapons": {},
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "name": "Pers1k",
+        "activity": "menu"
+      }
+    },
+    "added": {
+      "player": {
+        "team": true,
+        "state": true,
+        "weapons": true,
+        "match_stats": true
+      }
+    },
+    "timestamp": 1615669463.897445
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669474
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 22,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 8,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 3,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "activity": "playing",
+      "state": {
+        "health": 0,
+        "armor": 0,
+        "helmet": false,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 0
+      },
+      "weapons": {},
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "added": {
+      "round": {
+        "bomb": true
+      },
+      "player": {
+        "clan": true
+      }
+    },
+    "previously": {
+      "player": {
+        "name": "unconnected",
+        "team": "CT"
+      }
+    },
+    "timestamp": 1615669474.687641
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669484
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 22,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 8,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 3,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198856608041",
+      "clan": "PREMIUM",
+      "name": "\u0430\u043d\u0442\u043e\u0448\u0430 \u0430\u043d\u0442\u043e\u043d\u043e\u0432",
+      "observer_slot": 6,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 1,
+        "armor": 75,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 2,
+        "round_killhs": 2,
+        "round_totaldmg": 175,
+        "equip_value": 5950
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_awp",
+          "paintkit": "cu_awp_cobra",
+          "type": "SniperRifle",
+          "ammo_clip": 10,
+          "ammo_clip_max": 10,
+          "ammo_reserve": 30,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_fade",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "active"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_butterfly",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 8,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 2,
+        "score": 17
+      }
+    },
+    "previously": {
+      "player": {
+        "steamid": "76561198805520601",
+        "clan": "P\u043ernHub..\u2122",
+        "name": "Pers1k",
+        "state": {
+          "health": 0,
+          "armor": 0,
+          "helmet": false,
+          "round_kills": 0,
+          "round_killhs": 0,
+          "equip_value": 0
+        },
+        "match_stats": {
+          "kills": 0,
+          "deaths": 0,
+          "mvps": 0,
+          "score": 0
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "state": {
+          "round_totaldmg": true
+        },
+        "weapons": {
+          "weapon_0": true,
+          "weapon_1": true,
+          "weapon_2": true
+        },
+        "observer_slot": true,
+        "team": true
+      }
+    },
+    "timestamp": 1615669484.542214
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669485
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 22,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 8,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 3,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198856608041",
+      "clan": "PREMIUM",
+      "name": "\u0430\u043d\u0442\u043e\u0448\u0430 \u0430\u043d\u0442\u043e\u043d\u043e\u0432",
+      "observer_slot": 6,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 1,
+        "armor": 75,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 2,
+        "round_killhs": 2,
+        "round_totaldmg": 175,
+        "equip_value": 5950
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_awp",
+          "paintkit": "cu_awp_cobra",
+          "type": "SniperRifle",
+          "ammo_clip": 10,
+          "ammo_clip_max": 10,
+          "ammo_reserve": 30,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_fade",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_butterfly",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 8,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 2,
+        "score": 17
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_1": {
+            "state": "active"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669485.16572
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669488
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561198856608041",
+      "clan": "PREMIUM",
+      "name": "\u0430\u043d\u0442\u043e\u0448\u0430 \u0430\u043d\u0442\u043e\u043d\u043e\u0432",
+      "observer_slot": 6,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 1,
+        "armor": 75,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 3,
+        "round_killhs": 2,
+        "round_totaldmg": 249,
+        "equip_value": 5950
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_awp",
+          "paintkit": "cu_awp_cobra",
+          "type": "SniperRifle",
+          "ammo_clip": 9,
+          "ammo_clip_max": 10,
+          "ammo_reserve": 30,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_fade",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "active"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_butterfly",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 3,
+        "score": 19
+      }
+    },
+    "previously": {
+      "map": {
+        "round": 22,
+        "team_ct": {
+          "consecutive_round_losses": 0
+        },
+        "team_t": {
+          "score": 8,
+          "consecutive_round_losses": 3
+        }
+      },
+      "round": {
+        "phase": "live",
+        "bomb": "planted"
+      },
+      "player": {
+        "state": {
+          "round_kills": 2,
+          "round_totaldmg": 175
+        },
+        "weapons": {
+          "weapon_0": {
+            "ammo_clip": 10,
+            "state": "active"
+          },
+          "weapon_1": {
+            "state": "holstered"
+          }
+        },
+        "match_stats": {
+          "kills": 8,
+          "mvps": 2,
+          "score": 17
+        }
+      }
+    },
+    "added": {
+      "round": {
+        "win_team": true
+      }
+    },
+    "timestamp": 1615669488.716187
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669489
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561198856608041",
+      "clan": "PREMIUM",
+      "name": "\u0430\u043d\u0442\u043e\u0448\u0430 \u0430\u043d\u0442\u043e\u043d\u043e\u0432",
+      "observer_slot": 6,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 1,
+        "armor": 75,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 3,
+        "round_killhs": 2,
+        "round_totaldmg": 249,
+        "equip_value": 5950
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_awp",
+          "paintkit": "cu_awp_cobra",
+          "type": "SniperRifle",
+          "ammo_clip": 9,
+          "ammo_clip_max": 10,
+          "ammo_reserve": 30,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_fade",
+          "type": "Pistol",
+          "ammo_clip": 19,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "active"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_butterfly",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 3,
+        "score": 19
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 20
+          }
+        }
+      }
+    },
+    "timestamp": 1615669489.850945
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669490
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561198856608041",
+      "clan": "PREMIUM",
+      "name": "\u0430\u043d\u0442\u043e\u0448\u0430 \u0430\u043d\u0442\u043e\u043d\u043e\u0432",
+      "observer_slot": 6,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 1,
+        "armor": 75,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 3,
+        "round_killhs": 2,
+        "round_totaldmg": 249,
+        "equip_value": 5950
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_awp",
+          "paintkit": "cu_awp_cobra",
+          "type": "SniperRifle",
+          "ammo_clip": 9,
+          "ammo_clip_max": 10,
+          "ammo_reserve": 30,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_fade",
+          "type": "Pistol",
+          "ammo_clip": 18,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_butterfly",
+          "type": "Knife",
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 3,
+        "score": 19
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 19,
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669490.47436
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669491
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_smokegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "over",
+        "win_team": "T"
+      },
+      "player": {
+        "steamid": "76561198856608041",
+        "clan": "PREMIUM",
+        "name": "\u0430\u043d\u0442\u043e\u0448\u0430 \u0430\u043d\u0442\u043e\u043d\u043e\u0432",
+        "observer_slot": 6,
+        "team": "T",
+        "state": {
+          "health": 1,
+          "armor": 75,
+          "round_kills": 3,
+          "round_killhs": 2,
+          "round_totaldmg": 249,
+          "equip_value": 5950
+        },
+        "weapons": {
+          "weapon_0": {
+            "name": "weapon_awp",
+            "paintkit": "cu_awp_cobra",
+            "type": "SniperRifle",
+            "ammo_clip": 9,
+            "ammo_clip_max": 10,
+            "ammo_reserve": 30,
+            "state": "holstered"
+          },
+          "weapon_1": {
+            "name": "weapon_glock",
+            "paintkit": "aa_fade",
+            "ammo_clip": 18,
+            "ammo_clip_max": 20,
+            "ammo_reserve": 120
+          },
+          "weapon_2": {
+            "name": "weapon_knife_butterfly",
+            "state": "active"
+          }
+        },
+        "match_stats": {
+          "kills": 9,
+          "deaths": 1,
+          "mvps": 3,
+          "score": 19
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "state": {
+          "defusekit": true
+        },
+        "weapons": {
+          "weapon_2": {
+            "paintkit": true
+          },
+          "weapon_3": true
+        }
+      }
+    },
+    "timestamp": 1615669491.100778
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669491
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_smokegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669491.787235
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669494
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_smokegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "freezetime"
+      }
+    },
+    "timestamp": 1615669494.734201
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669496
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_smokegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "added": {
+      "round": {
+        "bomb": true
+      }
+    },
+    "timestamp": 1615669496.157723
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669497
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_smokegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "state": "active"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669498.009959
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669498
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_smokegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_3": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669498.65739
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669499
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_smokegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 0,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_3": {
+            "ammo_reserve": 1
+          }
+        }
+      }
+    },
+    "timestamp": 1615669499.884208
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669500
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_3": {
+            "name": "weapon_smokegrenade",
+            "paintkit": "default",
+            "type": "Grenade",
+            "ammo_reserve": 0,
+            "state": "active"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669500.570667
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669501
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669501.697418
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669502
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "state": "active"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669502.384877
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669504
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 201,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "smoked": 0
+        },
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669504.610361
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669505
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 255,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "smoked": 201
+        },
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "state": "active"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669505.228774
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669505
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "smoked": 255
+        }
+      }
+    },
+    "timestamp": 1615669505.914231
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669506
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 71,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 26,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "health": 100
+        },
+        "weapons": {
+          "weapon_0": {
+            "ammo_clip": 30
+          }
+        }
+      }
+    },
+    "timestamp": 1615669506.581676
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669507
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 13,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 1,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 19,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "health": 71,
+          "round_kills": 0
+        },
+        "weapons": {
+          "weapon_0": {
+            "ammo_clip": 26
+          }
+        },
+        "match_stats": {
+          "kills": 0,
+          "score": 0
+        }
+      }
+    },
+    "timestamp": 1615669507.241115
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669507
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 13,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 1,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 18,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "ammo_clip": 19
+          }
+        }
+      }
+    },
+    "timestamp": 1615669507.926573
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669508
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 23,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 1,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 13,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 1,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 18,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669508.809162
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669510
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 14,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 13,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 1,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 18,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "map": {
+        "round": 23,
+        "team_ct": {
+          "consecutive_round_losses": 1
+        },
+        "team_t": {
+          "consecutive_round_losses": 1
+        }
+      },
+      "round": {
+        "phase": "live",
+        "bomb": "planted"
+      }
+    },
+    "added": {
+      "round": {
+        "win_team": true
+      }
+    },
+    "timestamp": 1615669510.134045
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669510
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 15,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 4,
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 13,
+        "armor": 100,
+        "helmet": true,
+        "defusekit": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 1,
+        "round_killhs": 0,
+        "equip_value": 3600
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_m4a1",
+          "paintkit": "am_circuitboard_silver",
+          "type": "Rifle",
+          "ammo_clip": 18,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "map": {
+        "team_ct": {
+          "score": 14
+        }
+      }
+    },
+    "timestamp": 1615669510.806493
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669511
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 15,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 7,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 4200
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_ak47",
+          "paintkit": "sp_mesh_tan",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_glock_18_urban_moon_fever",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "over",
+        "win_team": "CT"
+      },
+      "player": {
+        "observer_slot": 4,
+        "team": "CT",
+        "state": {
+          "health": 13,
+          "defusekit": true,
+          "round_kills": 1,
+          "equip_value": 3600
+        },
+        "weapons": {
+          "weapon_0": {
+            "name": "weapon_m4a1",
+            "paintkit": "am_circuitboard_silver",
+            "ammo_clip": 18,
+            "state": "holstered"
+          },
+          "weapon_1": {
+            "name": "weapon_usp_silencer",
+            "paintkit": "default",
+            "ammo_clip": 12,
+            "ammo_clip_max": 12,
+            "ammo_reserve": 24
+          },
+          "weapon_2": {
+            "state": "active"
+          }
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "weapons": {
+          "weapon_3": true
+        }
+      }
+    },
+    "timestamp": 1615669511.443919
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669512
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 15,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 7,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 4200
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_ak47",
+          "paintkit": "sp_mesh_tan",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_glock_18_urban_moon_fever",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669512.095353
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669514
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 15,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 7,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 4200
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_ak47",
+          "paintkit": "sp_mesh_tan",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_glock_18_urban_moon_fever",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "state": "active"
+          },
+          "weapon_3": {
+            "state": "holstered"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669514.448923
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669515
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 15,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 7,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 4200
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_ak47",
+          "paintkit": "sp_mesh_tan",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_glock_18_urban_moon_fever",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "freezetime"
+      }
+    },
+    "added": {
+      "round": {
+        "bomb": true
+      }
+    },
+    "timestamp": 1615669515.135381
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669515
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 15,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 7,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 4200
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_ak47",
+          "paintkit": "sp_mesh_tan",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_glock_18_urban_moon_fever",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 0,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_3": {
+            "ammo_reserve": 1
+          }
+        }
+      }
+    },
+    "timestamp": 1615669515.820838
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13783,
+      "steamid": "76561198805520601",
+      "timestamp": 1615669516
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_inferno",
+      "phase": "live",
+      "round": 24,
+      "team_ct": {
+        "score": 15,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 0,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "team_t": {
+        "score": 9,
+        "name": "CYBERSHOKE",
+        "consecutive_round_losses": 2,
+        "timeouts_remaining": 1,
+        "matches_won_this_series": 0
+      },
+      "num_matches_to_win_series": 0,
+      "current_spectators": 0,
+      "souvenirs_total": 0
+    },
+    "round": {
+      "phase": "live",
+      "bomb": "planted"
+    },
+    "player": {
+      "steamid": "76561198805520601",
+      "clan": "P\u043ernHub..\u2122",
+      "name": "Pers1k",
+      "observer_slot": 7,
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 0,
+        "round_kills": 0,
+        "round_killhs": 0,
+        "equip_value": 4200
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_ak47",
+          "paintkit": "sp_mesh_tan",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "aa_glock_18_urban_moon_fever",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_knife_m9_bayonet",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_3": {
+            "name": "weapon_hegrenade",
+            "paintkit": "default",
+            "type": "Grenade",
+            "ammo_reserve": 0,
+            "state": "active"
+          }
+        }
+      }
+    },
+    "timestamp": 1615669516.807496
+  }
+]
