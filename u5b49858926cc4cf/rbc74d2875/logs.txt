@@ -1,0 +1,11 @@
+2021-06-07 14:52:13,027 - INFO - session/get_software
+2021-06-07 14:52:13,029 - DEBUG - Starting new HTTPS connection (1): headkraken.gg:443
+2021-06-07 14:52:13,067 - DEBUG - https://headkraken.gg:443 "GET /api/software HTTP/1.1" 200 160
+2021-06-07 14:52:18,286 - INFO - session/login
+2021-06-07 14:52:18,303 - DEBUG - Starting new HTTPS connection (1): headkraken.gg:443
+2021-06-07 14:52:18,509 - DEBUG - https://headkraken.gg:443 "POST /api/login HTTP/1.1" 200 1126
+2021-06-07 14:52:32,302 - INFO - settings/update_game
+2021-06-07 14:52:32,302 - INFO - settings/parse
+2021-06-07 14:52:33,123 - INFO - settings/update_sensor
+2021-06-07 14:52:33,123 - INFO - session/save
+2021-06-07 14:52:33,123 - INFO - settings/clear
